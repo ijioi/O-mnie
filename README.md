@@ -1,4 +1,9 @@
 # O mnie
+
+Imię: Jakub
+
+Nazwisko: Szkwarek
+
 Wiek: 24
 
 Miejsce zamieszkania: Świdnica
